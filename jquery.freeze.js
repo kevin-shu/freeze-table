@@ -1,4 +1,4 @@
-$.fn.fixTable=function(colNum, rowNum){
+$.fn.freeze=function(colNum, rowNum){
     colNum = colNum || 1;
     rowNum = rowNum || 0;
     
